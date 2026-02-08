@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+#hero img {
+  height: 90vh;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  background: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#stats h2 {
+  font-size: 50px;
+  color: #0d6efd;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  background: #111;
+  color: #fff;
+}
